@@ -1,0 +1,42 @@
+.body{
+    background-color: black;
+    margin: 0;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.964), rgba(0, 0, 0, 0.518)),url(/images/bus.jpg);
+    width: 99vw;
+    height: 100vh;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.add{
+    text-align: center;   
+}
+.add >h1{
+    font-size: 35px;
+    color: rgb(173, 197, 207);
+    margin-top: 20%;
+}
+h2{
+    font-size: 30px;
+    color: bisque;
+}
+button{
+    padding: 10px 1rem;
+    margin-right: 2rem;
+    font-size: large;
+}
+#btn{
+    background-color: rgb(29, 123, 163);
+    border: none;
+    border-radius: 10px;
+}
+#btn2{
+    background-color: rgb(163, 80, 29);
+    border: none;
+    border-radius: 10px;
+}
+p{
+    font-size: 25px;
+    color: bisque;
+}
